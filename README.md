@@ -1,2 +1,5 @@
 # Sample-Landing-Page
-This is a sample Web application landing page for a cosmetics company. It was created using bootstrap
+Sample web application landing page for a cosmetics company
+
+Editor : Visual Studio Code, 
+Technologies : CSS, HTML, Bootstrap
